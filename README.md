@@ -1,6 +1,6 @@
 # Gender Predictors
 
-This repository contains two Python scripts related to predicting gender (male or female) based on the physical characteristics: height, weight, shoe-size.
+This repository contains two Python scripts related to predicting gender (male or female) based on the physical characteristics: height, weight, and shoe-size.
 
 
 ## Files
